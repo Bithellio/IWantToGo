@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/GPJ Easy Menu/Scenes/MainMenu.unity
+    guid: ef475f7be7abdac47b64f438ce4c1761
+  - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 4cac46db713c4d94a901f3bfa7eb12e0
   m_configObjects: {}

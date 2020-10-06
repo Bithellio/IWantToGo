@@ -1,0 +1,3 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"inputSignatureChanged","annotation":"Il2Cpp C:/Users/yom/Documents/GitHub/IWantToGo/I want to go/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"changes":[{"key":"InputFileDigest","path":"C:\\Users\\yom\\Documents\\GitHub\\IWantToGo\\I want to go\\Temp\\StagingArea\\Data\\Managed\\ScriptDefinition.dll","dependency":"explicit"}]}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/yom/Documents/GitHub/IWantToGo/I want to go/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":0}

@@ -7,6 +7,15 @@ TagManager:
   - FallDetector
   - DoubleJump
   - WallJump
+  - Spikes
+  - GoldBlock
+  - GoldLock
+  - SpawnShift
+  - Spawner
+  - Dash
+  - Slide
+  - ChockLock
+  - ChockBlock
   layers:
   - Default
   - TransparentFX
