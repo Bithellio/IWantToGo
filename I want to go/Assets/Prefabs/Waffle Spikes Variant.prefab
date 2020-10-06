@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3685866415237845021
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -36.150578
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20.119392
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.007911913
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999687
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239051, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -0.907
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819227535762239052, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -771786206064169352, guid: 0501b724a25c5454bb8e018a321ebbe3, type: 3}
+    - target: {fileID: 8819227535762239054, guid: 41cf161a9973a38419290aa246da864a, type: 3}
+      propertyPath: m_Name
+      value: Waffle Spikes
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41cf161a9973a38419290aa246da864a, type: 3}
